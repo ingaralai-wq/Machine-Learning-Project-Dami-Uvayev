@@ -8,15 +8,18 @@ The task was to classify hand gestures (rock, paper, scissors) using Convolution
 
 ## Repository Structure
 
-├── rps.ipynb                    # Final Jupyter Notebook with all code and results
+```
+├── rps.ipynb                  # Final Jupyter Notebook with all code and results
 ├── ML_Project_Damir_Uvayev.pdf  # Final project report
 ├── outputs/
-│   └── plots/                   # All generated figures (curves, confusion matrices, misclassifications)
+│   └── plots/                 # All generated figures (curves, confusion matrices, misclassifications)
 ├── data/
-│   └── raw/                     # Directories with .png pictures here
-│         └── rock/ 
-│         └── paper/ 
-│         └── scissors/ 
+│   └── raw/                   # Dataset folders with .png images
+│       ├── rock/
+│       ├── paper/
+│       └── scissors/
+```
+
 
 > **Note:** Due to GitHub file size limits, model checkpoints (.pt) and dataset images are not included. See below for reproducibility.
 ---
