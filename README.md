@@ -9,7 +9,7 @@ The task was to classify hand gestures (rock, paper, scissors) using Convolution
 ## Repository Structure
 
 ```
-├── rps.ipynb                  # Final Jupyter Notebook with all code and results
+├── _rps.ipynb                  # Final Jupyter Notebook with all code and results
 ├── ML_Project_Damir_Uvayev.pdf  # Final project report
 ├── outputs/
 │   └── plots/                 # All generated figures (curves, confusion matrices, misclassifications)
@@ -52,7 +52,7 @@ Model B achieved the best trade-off between accuracy and complexity and is recom
 - Model weights are saved locally during training but are **not included** in this repo due to GitHub’s size limits
 - To reproduce results:
   1. Download the Rock–Paper–Scissors image dataset and place the extracted folders (rock/, paper/, scissors/) inside a directory named data/raw/ in the project root.
-  2. Run `rps.ipynb` from start to finish
+  2. Run `_rps.ipynb` from start to finish
   3. All models will be trained and evaluated automatically
 
 ---
