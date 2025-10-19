@@ -1,0 +1,1 @@
+place 3 directories (rock/, paper/, scissors/) here
