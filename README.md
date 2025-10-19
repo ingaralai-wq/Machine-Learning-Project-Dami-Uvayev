@@ -64,6 +64,12 @@ Steps:
 
 ---
 
+## Dataset
+
+* Rock-Paper-Scissors Images. Link: https://www.kaggle.com/datasets/drgfreeman/rockpaperscissors
+
+---
+
 ## Environment
 
 Developed with:
