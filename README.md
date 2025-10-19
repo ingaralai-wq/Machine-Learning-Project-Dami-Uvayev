@@ -52,7 +52,8 @@ Model B offered the best trade-off between accuracy and complexity and is recomm
 
 You can either:
 
-* **(Recommended)** Download pretrained model checkpoints from [Google Drive](outputs/checkpoints/link.txt) to skip training and reproduce the final metrics **exactly**.
+* **(Recommended)** Download pretrained model checkpoints from [Download checkpoints from Google Drive](https://drive.google.com/drive/folders/12WBBe9__R3kHE_jM1in2ABQXMFUMQsTP?usp=sharing)
+or copy the link manually from link.txt file in outputs/checkpoints to skip training and reproduce the final metrics **exactly**.
 * **Or** train all models from scratch using the notebook (results will be close, but may vary slightly).
 
 Steps:
