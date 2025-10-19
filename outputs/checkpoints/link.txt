@@ -1,1 +1,1 @@
-If recreation 1-in-1 is needed, checkpoint are uploaded on Google drive, which you can access by cliking this link: https://drive.google.com/drive/folders/12WBBe9__R3kHE_jM1in2ABQXMFUMQsTP?usp=sharing
+checkpoints are uploaded on Google drive, which you can access by copying and pasting this link: https://drive.google.com/drive/folders/12WBBe9__R3kHE_jM1in2ABQXMFUMQsTP?usp=sharing
